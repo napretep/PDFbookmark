@@ -1,0 +1,147 @@
+D:\BaiduNetdiskWorkspace\hjp\学位论文\图极限\Lovasz L. - Large networks and graph limits-Institute of Mathematics, Eötvös Loránd University (2012).pdf
+13
+Part 1. Large graphs: an informal introduction	1
+	Chapter 1. Very large networks	3
+		1.1. Huge networks everywhere	3
+		1.2. What to ask about them?	4
+		1.3. How to obtain information about them?	5
+		1.4. How to model them?	8
+		1.5. How to approximate them?	11
+		1.6. How to run algorithms on them?	18
+		1.7. Bounded degree graphs	22
+	Chapter 2. Large graphs in mathematics and physics	25
+		2.1. Extremal graph theory	25
+		2.2. Statistical physics	32
+Part 2. The algebra of graph homomorphisms	35
+	Chapter 3. Notation and terminology	37
+		3.1. Basic notation	37
+		3.2. Graph theory	38
+		3.3. Operations on graphs	39
+	Chapter 4. Graph parameters and connection matrices	41
+		4.1. Graph parameters and graph properties	41
+		4.2. Connection matrices	42
+		4.3. Finite connection rank	45
+	Chapter 5. Graph homomorphisms	55
+		5.1. Existence of homomorphisms	55
+		5.2. Homomorphism numbers	56
+		5.3. What hom functions can express	62
+		5.4. Homomorphism and isomorphism	68
+		5.5. Independence of homomorphism functions	72
+		5.6. Characterizing homomorphism numbers	75
+		5.7. The structure of the homomorphism set	79
+	Chapter 6. Graph algebras and homomorphism functions	83
+		6.1. Algebras of quantum graphs	83
+		6.2. Reflection positivity	88
+		6.3. Contractors and connectors	94
+		6.4. Algebras for homomorphism functions	101
+		6.5. Computing parameters with finite connection rank	106
+		6.6. The polynomial method	108
+Part 3. Limits of dense graph sequences	113
+	Chapter 7. Kernels and graphons	115
+		7.1. Kernels, graphons and stepfunctions	115
+		7.2. Generalizing homomorphisms	116
+		7.3. Weak isomorphism I	121
+		7.4. Sums and products	122
+		7.5. Kernel operators	124
+	Chapter 8. The cut distance	127
+		8.1. The cut distance of graphs	127
+		8.2. Cut norm and cut distance of kernels	131
+		8.3. Weak and L1 -topologies	138
+	Chapter 9. Szemeredi partitions	141
+		9.1. Regularity Lemma for graphs	141
+		9.2. Regularity Lemma for kernels	144
+		9.3. Compactness of the graphon space	149
+		9.4. Fractional and integral overlays	151
+		9.5. Uniqueness of regularity partitions	154
+	Chapter 10. Sampling	157
+		10.1. W -random graphs	157
+		10.2. Sample concentration	158
+		10.3. Estimating the distance by sampling	160
+		10.4. The distance of a sample from the original	164
+		10.5. Counting Lemma	167
+		10.6. Inverse Counting Lemma	169
+		10.7. Weak isomorphism II	170
+	Chapter 11. Convergence of dense graph sequences	173
+		11.1. Sampling, homomorphism densities and cut distance	173
+		11.2. Random graphs as limit objects	174
+		11.3. The limit graphon	180
+		11.4. Proving convergence	185
+		11.5. Many disguises of graph limits	193
+		11.6. Convergence of spectra	194
+		11.7. Convergence in norm	196
+		11.8. First applications	197
+	Chapter 12. Convergence from the right	201
+		12.1. Homomorphisms to the right and multicuts	201
+		12.2. The overlay functional	205
+		12.3. Right-convergent graphon sequences	207
+		12.4. Right-convergent graph sequences	211
+	Chapter 13. On the structure of graphons	217
+		13.1. The general form of a graphon	217
+		13.2. Weak isomorphism III	220
+		13.3. Pure kernels	222
+		13.4. The topology of a graphon	225
+		13.5. Symmetries of graphons	234
+	Chapter 14. The space of graphons	239
+		14.1. Norms defined by graphs	239
+		14.2. Other norms on the kernel space	242
+		14.3. Closures of graph properties	247
+		14.4. Graphon varieties	250
+		14.5. Random graphons	256
+		14.6. Exponential random graph models	259
+	Chapter 15. Algorithms for large graphs and graphons	263
+		15.1. Parameter estimation	263
+		15.2. Distinguishing graph properties	266
+		15.3. Property testing	268
+		15.4. Computable structures	276
+	Chapter 16. Extremal theory of dense graphs	281
+		16.1. Nonnegativity of quantum graphs and reflection positivity	281
+		16.2. Variational calculus of graphons	283
+		16.3. Densities of complete graphs	285
+		16.4. The classical theory of extremal graphs	293
+		16.5. Local vs. global optima	294
+		16.6. Deciding inequalities between subgraph densities	299
+		16.7. Which graphs are extremal?	307
+	Chapter 17. Multigraphs and decorated graphs	317
+		17.1. Compact decorated graphs	318
+		17.2. Multigraphs with unbounded edge multiplicities	325
+Part 4. Limits of bounded degree graphs	327
+	Chapter 18. Graphings	329
+		18.1. Borel graphs	329
+		18.2. Measure preserving graphs	332
+		18.3. Random rooted graphs	338
+		18.4. Subgraph densities in graphings	344
+		18.5. Local equivalence	346
+		18.6. Graphings and groups	349
+	Chapter 19. Convergence of bounded degree graphs	351
+		19.1. Local convergence and limit	351
+		19.2. Local-global convergence	360
+	Chapter 20. Right convergence of bounded degree graphs	367
+		20.1. Random homomorphisms to the right	367
+		20.2. Convergence from the right	375
+	Chapter 21. On the structure of graphings	383
+		21.1. Hyperfiniteness	383
+		21.2. Homogeneous decomposition	393
+	Chapter 22. Algorithms for bounded degree graphs	397
+		22.1. Estimable parameters	397
+		22.2. Testable properties	402
+		22.3. Computable structures	405
+Part 5. Extensions: a brief survey	413
+	Chapter 23. Other combinatorial structures	415
+		23.1. Sparse (but not very sparse) graphs	415
+		23.2. Edge-coloring models	416
+		23.3. Hypergraphs	421
+		23.4. Categories	425
+		23.5. And more...	429
+Appen dix A. Appendix	433
+	A.1. Mobius functions	433
+	A.2. The Tutte polynomial	434
+	A.3. Some background in probability and measure theory	436
+	A.4. Moments and the moment problem	441
+	A.5. Ultraproduct and ultralimit	444
+	A.6. Vapnik-Chervonenkis dimension	445
+	A.7. Nonnegative polynomials	446
+	A.8. Categories	447
+Bibliography	451
+Author Index	465
+Subject Index	469
+Notation Index	473
